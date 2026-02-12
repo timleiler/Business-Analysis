@@ -5,6 +5,8 @@ I clean the data, explore it, identify problems and will visualize key messages.
 
 ## Results
 
+### Exploratory Data Analysis
+
 ### Data cleaning
 
 ### Problem identification
