@@ -11,7 +11,7 @@ Here I have a first look at the data. To get a first impressive of the data set 
 <br>
 
 
-| S | S |
+|  |  |
 | :---: | :---: |
 | <img width="871" height="347" alt="grafik" src="https://github.com/user-attachments/assets/edf55b90-8684-4643-a96b-c432e94ee146" /> | <img width="811" height="458" alt="grafik" src="https://github.com/user-attachments/assets/965e9c16-48c5-454f-a312-d505367e01ef" /> |
 | .shape | .head() |
