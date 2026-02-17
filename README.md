@@ -24,6 +24,18 @@ Now we got a first impression about our data.
 
 ### Data cleaning
 
+|  |  |
+| :---: | :---: |
+| <img width="1118" height="807" alt="grafik" src="https://github.com/user-attachments/assets/281a8c06-996a-4348-a8e9-4e672aad3617" /> | <img width="868" height="803" alt="grafik" src="https://github.com/user-attachments/assets/b1a79b2f-76c3-4616-88f0-e44db8a9224b" />|
+| A example of 'manual' data cleaning | The data cleaning of all our data |
+<br>
+<br>
+<img width="642" height="257" alt="grafik" src="https://github.com/user-attachments/assets/3d4eb87f-40eb-4f4d-9e4c-624cbe8178f9" />
+
+This is the result. Clean data, without any dublicates and missing data is replaced with the mean value.
+<br>
+<br>
+
 ### Exploratory Data Analysis
 
 ### Problem identification
